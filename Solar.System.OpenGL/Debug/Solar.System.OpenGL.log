@@ -1,0 +1,6 @@
+﻿  Main.cpp
+d:\aiub\spring 15-16\graphics\solarsystemopengl\solar.system.opengl\main.cpp(93): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\aiub\spring 15-16\graphics\solarsystemopengl\solar.system.opengl\main.cpp(94): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\aiub\spring 15-16\graphics\solarsystemopengl\solar.system.opengl\main.cpp(101): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Solar.System.OpenGL.vcxproj -> D:\AIUB\Spring 15-16\Graphics\SolarSystemOpenGL\Debug\Solar.System.OpenGL.exe
+  Solar.System.OpenGL.vcxproj -> D:\AIUB\Spring 15-16\Graphics\SolarSystemOpenGL\Debug\Solar.System.OpenGL.pdb (Partial PDB)
